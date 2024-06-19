@@ -1,0 +1,2 @@
+Yes|Normal|Green|Black|
+No|Normal|Red|Black|

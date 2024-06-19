@@ -1,0 +1,6 @@
+Card Duels|Rainbow|Green|Black|
+Card Duels is a simple deckbuilding card game!(o)It is a student's project so don't mind the simplicity.(o)Im happy you chose to run this game!(o)So what are we doing?|Normal|Grey|Black|
+Start New Run|Normal|Blue|Black|
+Select Existing Run|Normal|Green|Black|
+Settings|Normal|Brown|Black|
+Debugger|Normal|Red|Black|

@@ -1,0 +1,3 @@
+TEMP|Rainbow|Green|Black|
+Co tam u ciebie?(o)Bo u mnie nie najgorzej|Normal|Grey|Black|
+Dobrze|Normal|Red|Black|

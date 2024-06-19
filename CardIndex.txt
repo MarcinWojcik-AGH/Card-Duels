@@ -1,0 +1,3 @@
+Sword Slash|You slash the enemy for 3 damage.|Common|1|3|0|0|0|
+Shield Up|You raise your shield and gain 3 block.|Common|1|0|0|3|0|
+Persevere|Damage taken from each attack is reduced by 1|Uncommon|2|0|0|0|2|

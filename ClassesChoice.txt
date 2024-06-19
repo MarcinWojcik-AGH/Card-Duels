@@ -1,0 +1,9 @@
+Choose your class!(o)Some will be avaible after you beat the Rainbow Dragon.|Normal|Grey|Black|
+Fighter|Normal|Blue|Black|
+Paladin|Normal|Green|Black|
+Mage|Normal|Brown|Black|
+Berserker|Normal|Red|Black|
+Fighter is a great ballance between attack power and ability to resit damage. (o)Are you sure you want to choose it?|Normal|Grey|Black|
+Paladin has great really good defence and uses it to overpower his enemies. (o)Are you sure you want to choose it?|Normal|Grey|Black|
+Mage deals a lot of damage. Yep that's all. (o)Are you sure you want to choose it?|Normal|Grey|Black|
+Path of the Berserker is hard. You need to stay on low health to deal enought damage to overpower your enemies. (o)Are you sure you want to choose it?|Normal|Grey|Black|

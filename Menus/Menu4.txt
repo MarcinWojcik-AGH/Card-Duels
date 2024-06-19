@@ -1,0 +1,4 @@
+Debugger|Normal|Red|Black|
+You know what's here...(o)You can create your own menu.(o)Or something else.|Normal|Grey|Black|
+Menu Creator|Normal|Green|Black|
+Go back Im scared!|Normal|Red|Black|
